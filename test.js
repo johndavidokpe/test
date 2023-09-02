@@ -1,1 +1,1 @@
-alert(hello);
+<a href="test.php">test</a>
